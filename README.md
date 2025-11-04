@@ -55,8 +55,6 @@ By using this software, you agree to use it solely for learning purposes.
   - [⌨️ Command Line Interface](#️-command-line-interface)
   - [🖥️ Web Application](#️-web-application)
 - [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#license)
 
 ## How to Install
 
@@ -160,11 +158,3 @@ Please see detailed instructions on how to install and run the web application [
 5. Create a Pull Request
 
 **Important**: Please keep your pull requests small and focused. This will make it easier to review and merge.
-
-## Feature Requests
-
-If you have a feature request, please open an [issue](https://github.com/tow3web3/ECH-AI-/issues) and make sure it is tagged with `enhancement`.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
